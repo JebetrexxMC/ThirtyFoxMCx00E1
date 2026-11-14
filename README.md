@@ -1,18 +1,50 @@
-# ThirtyFoxMC
+<p align="center"><a href="https://github.com/ThirtyFoxMCx00E1/wagu"><img src="assets/mp-icon.png" width="96" alt="MP Multiplayer icon"></a></p>
 
-I build multiplayer, mods and tools for GTA San Andreas on Android.
+<h1 align="center">ThirtyFoxMC</h1>
 
-[Join the MP Discord ↗](https://discord.gg/tbsDknk34y) · [MP website ↗](https://mpsamp-open.github.io/)
+<p align="center">I build multiplayer, mods and tools for GTA San Andreas and GTA Vice City on Android.</p>
+
+<p align="center">
+<a href="https://youtube.com/@thirtyfoxmc"><img src="https://img.shields.io/badge/YouTube-@thirtyfoxmc-FF0000?style=flat&amp;logo=youtube&amp;logoColor=white" alt="YouTube @thirtyfoxmc"></a>
+<a href="https://discord.gg/BbZ5xkmuYH"><img src="https://img.shields.io/badge/Discord-MP%20community-5865F2?style=flat&amp;logo=discord&amp;logoColor=white" alt="Join the MP Discord"></a>
+<a href="https://mpsamp-open.github.io/"><img src="https://img.shields.io/badge/Website-mpsamp--open-FFB21E?style=flat&amp;labelColor=1B1D22" alt="MP website"></a>
+</p>
+
+---
 
 ### [MP Multiplayer](https://github.com/ThirtyFoxMCx00E1/wagu)
 
 <p><a href="https://github.com/ThirtyFoxMCx00E1/wagu/stargazers"><img src="https://img.shields.io/github/stars/ThirtyFoxMCx00E1/wagu?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for wagu"></a></p>
 
-Online multiplayer for GTA San Andreas on Android (AML mod). Public and private servers, Roleplay, Project Day Z, Brief Case War and MW3 gamemodes, Co-op story, a host map editor and 24/7 servers that run on a phone or a VPS.
+Online multiplayer for GTA San Andreas and GTA Vice City on Android (AML mod). Public and private servers with full sync, Roleplay, Project Day Z, Brief Case War and MW3 gamemodes, VC:MP-style classes, teams and server cars on Vice City, Co-op story, a host map editor and 24/7 servers that run on a phone or a VPS. Built in: MonetLoader for MP (Lua scripts). Included scripts: TV Player (videos on the game's TVs) and a dynamic hitmarker.
 
 <p><a href="https://github.com/ThirtyFoxMCx00E1/wagu"><img src="assets/mp-banner.jpg" width="420" alt="MP Multiplayer for GTA San Andreas banner"></a></p>
 
 <p><a href="https://github.com/ThirtyFoxMCx00E1/wagu"><img src="assets/mp-ingame.jpg" width="420" alt="MP in game: synced players and vehicles with the MP HUD, chat and radar"></a></p>
+
+---
+
+### [MonetLoader for MP](https://github.com/ThirtyFoxMCx00E1/MonetLoaderOSS)
+
+<p><a href="https://github.com/ThirtyFoxMCx00E1/MonetLoaderOSS/stargazers"><img src="https://img.shields.io/github/stars/ThirtyFoxMCx00E1/MonetLoaderOSS?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for MonetLoaderOSS"></a></p>
+
+My MonetLoaderOSS fork, built into MP: PC MoonLoader-style `.lua` scripts on Android with `samp.events` on MP servers, a hardware video decoder for TV Player, 3D textured drawing inside the game's world pass, and MP's touches and keyboard.
+
+---
+
+### [samp-essentials](https://github.com/ThirtyFoxMCx00E1/samp-essentials)
+
+<p><a href="https://github.com/ThirtyFoxMCx00E1/samp-essentials/stargazers"><img src="https://img.shields.io/github/stars/ThirtyFoxMCx00E1/samp-essentials?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for samp-essentials"></a></p>
+
+The library pack SA-MP scripts expect. The pure-Lua libraries ship with MonetLoader for MP; the PC-only `.dll` ones are listed with their mobile replacements.
+
+---
+
+### [Ultimate ASI Loader](https://github.com/ThirtyFoxMCx00E1/Ultimate-ASI-Loader)
+
+<p><a href="https://github.com/ThirtyFoxMCx00E1/Ultimate-ASI-Loader/stargazers"><img src="https://img.shields.io/github/stars/ThirtyFoxMCx00E1/Ultimate-ASI-Loader?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for Ultimate-ASI-Loader"></a></p>
+
+A proxy DLL that loads `.asi` plugins, and extra `.dll` files, into the game on PC.
 
 ---
 
@@ -99,6 +131,12 @@ A phone-only web terminal and 24/7 status page for the MP HiveMQ servers.
 
 <p><a href="https://github.com/ThirtyFoxMCx00E1/ARMPatch"><strong>ARMPatch</strong></a> <sub>from RusJJ</sub><br><a href="https://github.com/ThirtyFoxMCx00E1/ARMPatch/stargazers"><img src="https://img.shields.io/github/stars/ThirtyFoxMCx00E1/ARMPatch?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="150" alt="Stars for ARMPatch"></a></p>
 
+<p><a href="https://github.com/ThirtyFoxMCx00E1/SAUtils"><strong>SAUtils</strong></a> <sub>from AndroidModLoader</sub><br><a href="https://github.com/ThirtyFoxMCx00E1/SAUtils/stargazers"><img src="https://img.shields.io/github/stars/ThirtyFoxMCx00E1/SAUtils?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="150" alt="Stars for SAUtils"></a></p>
+
+<p><a href="https://github.com/ThirtyFoxMCx00E1/AML_ImGui"><strong>AML_ImGui</strong></a> <sub>from AndroidModLoader</sub><br><a href="https://github.com/ThirtyFoxMCx00E1/AML_ImGui/stargazers"><img src="https://img.shields.io/github/stars/ThirtyFoxMCx00E1/AML_ImGui?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="150" alt="Stars for AML_ImGui"></a></p>
+
+<p><a href="https://github.com/ThirtyFoxMCx00E1/Psdk-aml"><strong>Psdk-aml</strong></a> <sub>plugin-sdk for AML (Android layouts)</sub><br><a href="https://github.com/ThirtyFoxMCx00E1/Psdk-aml/stargazers"><img src="https://img.shields.io/github/stars/ThirtyFoxMCx00E1/Psdk-aml?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="150" alt="Stars for Psdk-aml"></a></p>
+
 <p><a href="https://github.com/ThirtyFoxMCx00E1/AArchASMHelper"><strong>AArchASMHelper</strong></a> <sub>from RusJJ</sub><br><a href="https://github.com/ThirtyFoxMCx00E1/AArchASMHelper/stargazers"><img src="https://img.shields.io/github/stars/ThirtyFoxMCx00E1/AArchASMHelper?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="150" alt="Stars for AArchASMHelper"></a></p>
 
 <p><a href="https://github.com/ThirtyFoxMCx00E1/AML_PrecompiledLibs"><strong>AML_PrecompiledLibs</strong></a> <sub>from RusJJ</sub><br><a href="https://github.com/ThirtyFoxMCx00E1/AML_PrecompiledLibs/stargazers"><img src="https://img.shields.io/github/stars/ThirtyFoxMCx00E1/AML_PrecompiledLibs?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="150" alt="Stars for AML_PrecompiledLibs"></a></p>
@@ -122,5 +160,11 @@ A phone-only web terminal and 24/7 status page for the MP HiveMQ servers.
 <p><a href="https://github.com/ThirtyFoxMCx00E1/mysql-server"><strong>mysql-server</strong></a> <sub>from mysql</sub><br><a href="https://github.com/ThirtyFoxMCx00E1/mysql-server/stargazers"><img src="https://img.shields.io/github/stars/ThirtyFoxMCx00E1/mysql-server?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="150" alt="Stars for mysql-server"></a></p>
 
 </details>
+
+---
+
+### Credit and re-uploads
+
+MP and these tools are free and represent years of work. Sharing links to this page or the official releases is welcome. Re-uploading MP or its parts (to file sites, YouTube, Discord or other stores) without clear credit to ThirtyFoxMC and a link to the [official source](https://github.com/ThirtyFoxMCx00E1/wagu) is not allowed, and neither is selling it or removing the credits. Every upstream project keeps its own license and credit. If you find a re-upload, please report it on [Discord](https://discord.gg/BbZ5xkmuYH).
 
 <p align="center"><br><a href="https://github.com/ThirtyFoxMCx00E1?tab=repositories">Explore all repositories ↗</a></p>
