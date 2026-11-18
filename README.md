@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ThirtyFoxMCx00E1/wagu"><img src="assets/mp-banner.jpg" alt="SA VC Multiplayer: San Andreas sunset and Vice City neon, connected phones" width="900"></a>
+  <a href="https://github.com/ThirtyFoxMCx00E1/wagu"><img src="assets/mp-banner.jpg" alt="SA VC Multiplayer: MP Multiplayer for GTA San Andreas and GTA Vice City (Android)" width="900"></a>
 </p>
 
 <h1 align="center">ThirtyFoxMC</h1>
